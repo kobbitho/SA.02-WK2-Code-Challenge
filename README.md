@@ -29,7 +29,7 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation Instructions
-Fork the repository then clone it into your local environment, then open it in a code editor.
+Fork the repository then clone it into your local environment.
 
 # Live link
 https://github.com/kobbitho/SA.02-WK2-Code-Challenge.git
